@@ -1,0 +1,19 @@
+Podział zadan:
+Create board - *Leon
+Display the board - *Leon
+Boss room - Leon
+
+Player movement - Mateusz
+
+Items - Hubert
+
+Player character - Patryk
+
+Other characters - Adrian
+Boss fight - 
+
+OPTIONAL
+Use Graphical Interface -
+Hall of Fame - 
+Show statistics - 
+Welcome screen - *Leon
